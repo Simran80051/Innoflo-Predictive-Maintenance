@@ -14,7 +14,7 @@
 
 ## 📌 Overview
 The **Innoflo Operational Data Project** is a machine learning initiative focused on enhancing **operational efficiency** and **reliability** in the fluid delivery sector.  
-Developed as part of a **Work-Integrated Learning (WIL)** experience (January – April 2025), the project investigates the impact of **environmental** and **operational** factors on delivery performance.
+Developed as part of a **Machine Learning Work-Integrated Project 1** experience (January – April 2025), the project investigates the impact of **environmental** and **operational** factors on delivery performance.
 
 ---
 
